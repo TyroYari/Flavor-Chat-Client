@@ -4,6 +4,8 @@ Writing chat bots was my favorite passtime as a 15 year old.  I've revisted the 
 
 BNCSutil.bas was written by Eric Naeseth, the rest is my own work.
 
+This project was made possible by the community at bnetdocs, for researching and documenting the bnet protocol.  https://bnetdocs.org/packet/index
+
 
 ## Some pictures ##
 
